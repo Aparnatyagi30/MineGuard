@@ -126,10 +126,10 @@ The frontend provides:
 
 # 👩‍💻 Author
 
-Srishti Jha
+Aparna Tyagi
 
 GitHub:
-https://github.com/Srishti-Jha123
+https://github.com/Aparnatyagi30
 
 ---
 
